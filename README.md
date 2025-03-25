@@ -34,7 +34,6 @@ Você pode instalar essas ferramentas utilizando os seguintes comandos:
 
 ```bash
 sudo apt-get install nmap xsltproc
-![image](https://github.com/user-attachments/assets/5a4eea97-e263-4e59-96e0-073f032e01b6)
-![image](https://github.com/user-attachments/assets/b58423b4-6d44-4843-8ab0-8407dc76400e)
+
 
 
